@@ -1,4 +1,3 @@
 Este es un archivo donde
 se realiza una prueba
-aprenderemos commits y otras
-cosas mas interesantes.
+aprenderemos commits y funciones avanzadas.
